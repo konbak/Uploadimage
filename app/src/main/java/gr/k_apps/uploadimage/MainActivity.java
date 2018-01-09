@@ -41,7 +41,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
 
     private int PICK_IMAGE_REQUEST = 1;
 
-    private String UPLOAD_URL ="http://k-apps.gr/uploadImage/upload.php";
+    private String UPLOAD_URL ="your url";
 
     private String KEY_IMAGE = "image";
     private String KEY_NAME = "name";
